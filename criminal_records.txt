@@ -1,0 +1,45 @@
+Name: sana
+Age: 56
+Registration number: 177
+Date: 7
+Month: 2
+Year: 2022
+Crime: assault
+Punishment: death sentence 
+
+Name: afg
+Age: 45
+Registration number: 678
+Date: 3
+Month: 7
+Year: 123
+Crime: dfhuuvnjf
+Punishment: sfhitvas
+
+Name: danish
+Age: 34
+Registration number: 675
+Date: 26
+Month: 8
+Year: 4012
+Crime: dfiijn
+Punishment: death
+
+Name: ariop
+Age: 45
+Registration number: 9
+Date: 3
+Month: 2
+Year: 4
+Crime: ftthu
+Punishment: sdguuv
+
+Name: skjs
+Age: 56
+Registration number: 34
+Date: 3
+Month: 7
+Year: 8
+Crime: eddgu
+Punishment: dffuh
+

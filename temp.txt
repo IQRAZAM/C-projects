@@ -1,0 +1,28 @@
+
+Name: afg
+Age: 45
+Registration number: 678
+Date: 3
+Month: 7
+Year: 123
+Crime: dfhuuvnjf
+Punishment: sfhitvas
+
+Name: danish
+Age: 34
+Registration number: 675
+Date: 26
+Month: 8
+Year: 4012
+Crime: dfiijn
+Punishment: death
+
+Name: ariop
+Age: 45
+Registration number: 9
+Date: 3
+Month: 2
+Year: 4
+Crime: ftthu
+Punishment: sdguuv
+
